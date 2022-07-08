@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MehrajUDin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Machine Learning Algorithms, MySQL
+- 🌱 I’m currently learning Python, Machine Learning Algorithms, SQL
 - 💞️ I’m looking to collaborate on Data Science projects
 
 
